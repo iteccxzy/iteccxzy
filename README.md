@@ -1,6 +1,5 @@
-👋 Hi, I’m Gabriel Gomez
+## 👋 Hi, I’m Gabriel Gomez
 
----
 
 🇦🇷 I live in Corrientes Argentina. I have a degree in computer science and a little over 2 years ago I began to dedicate myself to web development initially with Python and Django, then also with frameworks such as Vuejs. 
 
@@ -10,27 +9,24 @@
 
 📫 How to reach me: iteccxyz@gmail.com
 
-#### Skills
+#### My Stack
 
-```Front``` 
+###### Front 
+<img src="./HTML.svg" /> <img src="./CSS.svg" /> <img src="./BOOTSTRAP.svg" /> <img src="./JAVASCRIPT.svg" /> <img src="./VUE.JS.svg" />
 
-<img src="https://github.com/iteccxzy/iteccxzy/blob/main/Front1.png/" width="194" height="35" />
-	
-	
-```Back```
+###### Back 
+<img src="./PYTHON.svg" /> <img src="./DJANGO.svg" />
 
-<img src="https://github.com/iteccxzy/iteccxzy/blob/main/back1.png/" width="122" height="42" />
+###### DB 
+<img src="./MONGODB.svg" /> <img src="./POSTGRESQL.svg" />
+  
+###### Tools 
+<img src="./LINUX.svg" /> <img src="./DOCKER.svg" /> <img src="./GIT.svg" /> <img src="./NODE.JS.svg" /> 
+  
+  
+###### Cloud
+<img src="./AMAZON AWS.svg" /> <img src="./DIGITALOCEAN.svg" /> <img src="./HEROKU.svg" /> <img src="./FIREBASE.svg" /> 
 
-```DB```
-  
-  <img src="https://github.com/iteccxzy/iteccxzy/blob/main/db.png/" width="135" height="39" />
-  
-  
-```Tools```
-  
-  <img src="https://github.com/iteccxzy/iteccxzy/blob/main/tools.png/" width="180" height="42" />
-  
-  
-```Cloud```
-  
-  <img src="https://github.com/iteccxzy/iteccxzy/blob/main/cloud.png/" width="171" height="38" />
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iteccxzy&theme=prussian&layout=compact)
