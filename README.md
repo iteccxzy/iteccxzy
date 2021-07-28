@@ -1,5 +1,6 @@
 ## 👋 Hi, I’m Gabriel Gomez
 
+<img src="./micro.svg" />  [<img alt="iteccxzy | Linkedin" src="./LINKEDIN.svg"/>][linkedin]
 
 🇦🇷 I live in Corrientes Argentina. I have a degree in computer science and a little over 2 years ago I began to dedicate myself to web development initially with Python and Django, then also with frameworks such as Vuejs. 
 
@@ -9,22 +10,21 @@
 
 📫 How to reach me: iteccxyz@gmail.com
 
+[linkedin]:https://www.linkedin.com/in/gabriel-gomez-590b81198/
+
+---
+
 #### My Stack
 
 ###### Front 
 <img src="./HTML.svg" /> <img src="./CSS.svg" /> <img src="./BOOTSTRAP.svg" /> <img src="./JAVASCRIPT.svg" /> <img src="./VUE.JS.svg" />
-
-###### Back 
+###### Back  
 <img src="./PYTHON.svg" /> <img src="./DJANGO.svg" />
-
-###### DB 
+###### DB     
 <img src="./MONGODB.svg" /> <img src="./POSTGRESQL.svg" />
-  
-###### Tools 
+###### Tools  
 <img src="./LINUX.svg" /> <img src="./DOCKER.svg" /> <img src="./GIT.svg" /> <img src="./NODE.JS.svg" /> 
-  
-  
-###### Cloud
+###### Cloud  
 <img src="./AMAZON AWS.svg" /> <img src="./DIGITALOCEAN.svg" /> <img src="./HEROKU.svg" /> <img src="./FIREBASE.svg" /> 
 
 ---
