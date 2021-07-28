@@ -12,6 +12,7 @@
 
 [linkedin]:https://www.linkedin.com/in/gabriel-gomez-590b81198/
 [code]: https://www.codewars.com/users/itecc/
+
 ---
 
 #### My Stack
