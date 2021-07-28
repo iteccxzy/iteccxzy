@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Gabriel Gomez
 
-<img src="./micro.svg" />  [<img alt="iteccxzy | Linkedin" src="./LINKEDIN.svg"/>][linkedin]
+[<img src="./micro.svg" />][code]  [<img alt="iteccxzy | Linkedin" src="./LINKEDIN.svg"/>][linkedin]
 
 🇦🇷 I live in Corrientes Argentina. I have a degree in computer science and a little over 2 years ago I began to dedicate myself to web development initially with Python and Django, then also with frameworks such as Vuejs. 
 
@@ -11,7 +11,7 @@
 📫 How to reach me: iteccxyz@gmail.com
 
 [linkedin]:https://www.linkedin.com/in/gabriel-gomez-590b81198/
-
+[code]: https://www.codewars.com/users/itecc/
 ---
 
 #### My Stack
