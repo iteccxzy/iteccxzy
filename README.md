@@ -12,7 +12,7 @@
 
 📫 How to reach me: iteccxyz@gmail.com
 
-[linkedin]:https://www.linkedin.com/in/gabriel-gomez-590b81198/
+[linkedin]:https://www.linkedin.com/in/gabriel-gomez-dev/
 [code]: https://www.codewars.com/users/itecc/
 
 ---
