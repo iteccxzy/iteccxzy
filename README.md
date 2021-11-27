@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Gabriel Gómez
 
-[<img src="./micro.svg" />][code]  [<img alt="iteccxzy | Linkedin" src="./LINKEDIN.svg"/>][linkedin]
+[<img src="./micro.svg" />][code]   [<img alt="iteccxzy | Linkedin" src="./LINKEDIN.svg"/>][linkedin]
 
 #### I'm a programmer Python
 
