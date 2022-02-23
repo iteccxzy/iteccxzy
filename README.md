@@ -4,7 +4,7 @@
 
 #### I'm a programmer Python
 
-🇦🇷 Hi! My name is Gabriel. I live in Corrientes Argentina. I have a degree in computer science and a little over 2 years ago I began to dedicate myself to web development initially with Python and Django, then also with frameworks such as Vuejs. 
+🇦🇷 Hi! My name is Gabriel. I live in Corrientes Argentina. I have a computer science degree and I am a web developer with Python, Django and also with frameworks like Vuejs. 
 
 👀 I’m interested in development opportunities mainly with Django and Python. My search is focused on trying to join a team where I can contribute my experience, learnings to be able to have the feedback that complements my skills.
 
